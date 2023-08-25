@@ -1,6 +1,7 @@
 <h1 align="center">
      Hello, I'm <a href="https://github.com/Efimj">Efim</a> <img src="./assets/hi.gif" height="32"/>
 </h1>
+<!--    <img height="18" src="https://komarev.com/ghpvc/?username=Efimij&label=Views&color=2081c1&style=flat-square" /> -->
 
 <!--
 ### Hi there 👋
